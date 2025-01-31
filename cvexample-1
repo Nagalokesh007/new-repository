@@ -1,0 +1,55 @@
+<html>
+ <head>
+    <meta property="og:title" content="Your Name - Junior Frontend Developer CV">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Explore the CV of Your Name, a skilled Junior Frontend Developer with experience in HTML, CSS, JavaScript, and more.">
+    <meta property="og:site_name" content="Your Name's CV">
+
+    <style>
+ .juniorcss,.skillscss,.educationcss,.projectscss,.acrossinternetcss{
+    color: rgb(57, 223, 57);
+ }
+ .clgnamecss,.projectname1css,.projectname2css{
+    color:rgb(12, 117, 216)
+
+ }
+    </style>
+    
+        <title>
+            cv example
+          
+        </title>
+        
+        
+    </head>
+    <body>
+        <h3>JINKA NAGALOKESH</h3>
+           <h5 class="juniorcss">Junior Frontend Developer</h5>
+       <p>123 Your Street</br>
+        Your City, ST 12345</br>
+        (123) 456-7890</br>
+        no_reply@example.com</p>
+           <h5 class="skillscss">Skills</h5>
+        <p>
+            HTML,CSS,Javascript,python,figma,sql.
+        </p>
+           <h5 class="educationcss">Education</h5>
+        <p class="clgnamecss">MLR INSTITUTE OF TECHNOLOGY</p>
+        <P>
+            November 2021 To May 2025</br>
+            cgpa:7.02 
+        </P>
+           <h5 class="projectscss">Projects</h5>
+       <h4 class="projectname1css"> Random Decision Maker</h4>
+    <ul><li>Developed a random decision maker using html,css and javascript to select random texts
+    based on the texts given by users.</br> It is used in electing a class leader without partiality on
+    any single student and showcase transparency.</li></ul>
+        <h4 class="projectname2css">Website Design using Figma (UI/UX)</h4>
+        <ul><li>Designed and developed an intuitive and visually appealing website using Figma.Created
+    wireframes, prototypes, </br>and low-fidelity designs.</li></ul>
+            <h5 class="acrossinternetcss">Across The Internet</h5>
+    <a href="https://www.linkedin.com/in/naga-lokesh-169494271/">Linkedin</a></br></br>
+    <a href="https://github.com/Nagalokesh007">GitHub</a>
+    </body>
+    
+</html>
